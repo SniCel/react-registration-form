@@ -1,0 +1,50 @@
+{
+  "form": {
+    "title": "Registration Form",
+    "email": {
+      "placeholder": "Email",
+      "errorMsg": "Please enter a valid email"
+    },
+    "firstName": {
+      "placeholder": "First Name",
+      "errorMsg": "Character limit is between 2 - 100"
+    },
+    "secondName": {
+      "placeholder": "Second Name",
+      "errorMsg": "Character limit is between 2 - 100"
+    },
+    "language": {
+      "placeholder": "Language",
+      "errorMsg": "You must select one item"
+    },
+    "countries": {
+      "placeholder": "Countries",
+      "errorMsg": "You must select one item"
+    },
+    "password": {
+      "placeholder" : "Password",
+      "errorMsg": "Character limit is between 5 - 100"
+    },
+    "confirmPassword": {
+      "placeholder" : "Confirm Password",
+      "errorMsg": "The passwords do not match"
+    },
+    "btnSignUp": {
+      "text": "Sign up"
+    },
+    "privateProfile": {
+      "text": "Private Profile"
+    },
+    "btnSwitch": {
+      "yes": "YES",
+      "no": "NO"
+    },
+    "checkBoxArea": {
+      "text": "Creating an account means you’re okay with our Privacy Policy.*"
+    },
+    "success": {
+      "text": "Success registration",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lobortis gravida ex, at maximus lorem condimentum ut. Cras purus mauris, convallis vitae sollicitudin sed, fringilla lobortis lorem."
+    }
+  }
+}

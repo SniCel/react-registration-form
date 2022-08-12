@@ -1,0 +1,18 @@
+import styled from 'styled-components'
+
+const PageHomeStyled = styled.div`
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(118.87deg, #FFFFFF -17.53%, #E0EAF7 102.01%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25rem;
+  @media only screen and (min-width: 768px) {
+    padding: 7.63rem 1.25rem;
+  }
+`
+
+export {
+  PageHomeStyled
+}
